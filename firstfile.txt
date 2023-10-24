@@ -1,7 +1,9 @@
 hello
-sirji
-this 
+this
 is
-myfirst
-git file
-to start the trackkk:
+a
+git
+commit
+from
+the
+terminal
